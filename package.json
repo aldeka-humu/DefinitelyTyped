@@ -1,0 +1,9 @@
+{
+  "name": "react-router-dom-types",
+  "version": "1.0.0",
+  "description": "fork of @types/react-router-dom",
+  "main": "index.d.ts",
+  "repository": "https://github.com/aldeka-humu/DefinitelyTyped/tree/no-hooks-in-react-router",
+  "author": "aldeka",
+  "license": "MIT"
+}
