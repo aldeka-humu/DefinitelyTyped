@@ -31,10 +31,6 @@ export {
     matchPath,
     withRouter,
     RouterChildContext,
-    useHistory,
-    useLocation,
-    useParams,
-    useRouteMatch,
 } from 'react-router';
 
 export interface BrowserRouterProps {
